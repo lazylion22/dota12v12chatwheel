@@ -1,0 +1,36 @@
+{
+    "name": "dota-chatwheel-by-line",
+    "version": "1.0.0",
+    "homepage": "https://gitname.github.io/dota12v12chatwheel",
+    "description": "",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "@emotion/react": "11.8.2",
+        "@emotion/styled": "11.8.1",
+        "@material-ui/core": "4.12.3",
+        "@mui/material": "5.5.1",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-scripts": "^5.0.0"
+    },
+    "devDependencies": {
+        "@babel/runtime": "7.13.8",
+        "gh-pages": "^3.2.3",
+        "typescript": "4.1.3"
+    },
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
