@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dota12v12chatwheel/static/css/main.fc5c2c69.css",
-    "main.js": "/dota12v12chatwheel/static/js/main.bc9b5831.js",
+    "main.js": "/dota12v12chatwheel/static/js/main.47cca64e.js",
     "index.html": "/dota12v12chatwheel/index.html",
     "main.fc5c2c69.css.map": "/dota12v12chatwheel/static/css/main.fc5c2c69.css.map",
-    "main.bc9b5831.js.map": "/dota12v12chatwheel/static/js/main.bc9b5831.js.map"
+    "main.47cca64e.js.map": "/dota12v12chatwheel/static/js/main.47cca64e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
-    "static/js/main.bc9b5831.js"
+    "static/js/main.47cca64e.js"
   ]
 }
